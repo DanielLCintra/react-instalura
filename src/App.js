@@ -6,7 +6,7 @@ export default class App extends Component {
   render() {
     return (
       <div id="root">
-        <div class="main">
+        <div className="main">
           <Header/>
           <Timeline/>
         </div>
